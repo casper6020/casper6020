@@ -4,4 +4,4 @@
 ## Connect with me
 https://www.linkedin.com/in/syedtahfim1963/
 
-<img align="right" ![python](https://github.com/user-attachments/assets/76be4764-73e7-4360-8369-709e1428fb37)>
+<img align="right" ![python](https://github.com/user-attachments/assets/76be4764-73e7-4360-8369-709e1428fb37)/>
