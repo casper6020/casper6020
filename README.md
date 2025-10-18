@@ -6,8 +6,7 @@
 <br>Often times, data scientists and researchers lean to advanced machine learning models because of their predictive power. We would like to explore how traditional statistical model like logistic regressions performs against different boosting algorithms. Instead of focusing on predictive power alone, we also need to consider the industry, objective and interpretability. We began with a simple interpretable model (Logistic Regression), then moved to an advanced boosting method to see how much improvement complex nonlinear models can bring — and whether the trade-off in interpretability is worth it.<br/>
 
 <div style="text-align: center;">
-    <img src="Project_Screenshots/age_dist.png" alt="Age Distribution" style="width: 450px; height: 300px;"/>
-    <img src="Project_Screenshots/linear_regression.png" alt="Linear Regression" style="width: 450px; height: 300px;"/>
+    <img src="https://github.com/casper6020/Comparison-between-Logistic-Regression-and-Boosting-Algorithm/blob/main/Figure.png" style="width: 450px; height: 300px;"/>
 </div>
 
 <div style="text-align: center;">
