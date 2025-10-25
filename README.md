@@ -6,7 +6,7 @@
 <br>Often times, data scientists and researchers are biased to advanced machine learning models because of their predictive power. Here, we compared logstic regression with two boosting algorithms and explained why boosting alrithms perform better than logistic regression.<br/>
 
 <div style="text-align: center;">
-    <img src="https://github.com/casper6020/Comparison-between-Logistic-Regression-and-Boosting-Algorithm/blob/main/Figure.png" style="width: 450px; height: 300px;"/>
+    <img src="https://github.com/casper6020/Income-level-prediction-Adult-Dataset/blob/main/Comparison_Figure.png" style="width: 450px; height: 300px;"/>
 </div>
 
 <div style="text-align: center;">
