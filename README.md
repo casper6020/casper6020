@@ -2,7 +2,7 @@
 <br>Data Scientist and Researcher with a PhD in **Management Science and Engineering** and proven expertise in credit risk modeling, financial forecasting, and SME finance. Skilled in **data warehousing, EDA, and statistical and machine learning models**. Well-versed in developing end-to-end machine learning projects. Published multiple peer-reviewed articles, including **SCI/SSCI- and EI-indexed** papers, with research focused on transportation safety. Proficient in Python, R, SQL, and modern data analysis frameworks, with strong capabilities in predictive modeling and real-world financial applications. Dedicated to bridging the gap between people, business, and technology.<br/>
 
 ## In my git-hub profile, you will find the following projects. 
-## - [Individual Income Prediction](https://github.com/casper6020/Income-level-prediction-Adult-Dataset)
+## - [Income Prediction](https://github.com/casper6020/Income-level-prediction-Adult-Dataset)
 <br>Often times, data scientists and researchers lean to advanced machine learning models because of their predictive power. We would like to explore how traditional statistical model like logistic regressions performs against different boosting algorithms. Instead of focusing on predictive power alone, we also need to consider the industry, objective and interpretability. We began with a simple interpretable model (Logistic Regression), then moved to an advanced boosting method to see how much improvement complex nonlinear models can bring — and whether the trade-off in interpretability is worth it.<br/>
 
 <div style="text-align: center;">
