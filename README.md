@@ -4,15 +4,18 @@
 ## In my git-hub profile, you will find the following projects. 
 ## - [Income Prediction](https://github.com/casper6020/Income-level-prediction-Adult-Dataset)
 <br>Often times, data scientists and researchers are biased to advanced machine learning models because of their predictive power. Here, we compared logstic regression with two boosting algorithms and explained why boosting alrithms perform better than logistic regression.<br/>
+<p align="center">
+    <img src="https://github.com/casper6020/Income-level-prediction-Adult-Dataset/blob/main/Comparison_Figure.png" width="450" height="300"/>
+</p>
 
-<div style="text-align: center;">
-    <img src="https://github.com/casper6020/Income-level-prediction-Adult-Dataset/blob/main/Comparison_Figure.png" style="width: 450px; height: 300px;"/>
-</div>
+## - [Time Series Analysis- Historical Bitcoin Prices](https://github.com/casper6020/Timeseries-Analysis-Historical-Bitcoin-Prices)
+<br>In this repository, we conducted time series analysis on historical bitcoin prices and applied ARIMA model to predict future prices.<br/>
 
-<div style="text-align: center;">
-    <img src="Project_Screenshots/log_regression.png" alt="Logistic Regression" style="width: 450px; height: 300px;"/>
-    <img src="Project_Screenshots/rnn_lstm.png" alt="Deep Learning" style="width: 450px; height: 300px;"/>
-</div>
+<p align="center">
+    <img src="https://github.com/casper6020/Timeseries-Analysis-Historical-Bitcoin-Prices/blob/main/Exponential%20Moving%20Average.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
+    <img src="https://github.com/casper6020/Timeseries-Analysis-Historical-Bitcoin-Prices/blob/main/time_series_forecast.png" width="45%" alt="Image 2 Description" style="float: right; margin-left: 2%;">
+</p>
+<br clear="all" />
 
 ## Connect with me
 https://www.linkedin.com/in/syedtahfim1963/
