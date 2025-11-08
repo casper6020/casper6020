@@ -10,7 +10,7 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/syedtahfim1963/
 </p>
 
 ### [Time Series Analysis- Historical Bitcoin Prices](https://github.com/casper6020/Timeseries-Analysis-Historical-Bitcoin-Prices)
-*In this repository, we conducted time series analysis on historical bitcoin prices and applied ARIMA model to predict future prices.*
+*This project explores historical Bitcoin price patterns through time series analysis and forecasting techniques. The analysis reveals key insights into Bitcoin's price behavior, including its non-stationary nature and the dramatic bull run of late 2017.*
 <p align="center">
     <img src="https://github.com/casper6020/Timeseries-Analysis-Historical-Bitcoin-Prices/blob/main/Exponential%20Moving%20Average.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
     <img src="https://github.com/casper6020/Timeseries-Analysis-Historical-Bitcoin-Prices/blob/main/time_series_forecast.png" width="45%" alt="Image 2 Description" style="float: right; margin-left: 2%;">
