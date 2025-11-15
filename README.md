@@ -3,7 +3,7 @@
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/syedtahfim1963/)
 
 ## Projects
-### <img src="https://cdn-icons-png.flaticon.com/128/3295/3295476.png" width="20" /> [Linear Regression From Scratch](https://github.com/casper6020/Linear-Regression-from-Scratch)
+### <img src="https://cdn-icons-png.flaticon.com/128/3295/3295476.png" width="20" /> [Multiple Linear Regression from Scratch](https://github.com/casper6020/Multiple-Linear-Regression-from-Scratch)
 *Building linear regression from the ground up to understand the math behind gradient descent, cost functions, and parameter optimization.*
 <p align="center">
     <img src="https://github.com/casper6020/Linear-Regression-from-Scratch/blob/main/scatter_salary_experience.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
