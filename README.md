@@ -9,7 +9,13 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/syedtahfim1963/
     <img src="https://github.com/casper6020/Linear-Regression-from-Scratch/blob/main/scatter_salary_experience.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
     <img src="https://github.com/casper6020/Linear-Regression-from-Scratch/blob/main/regression_line.png" width="45%" alt="Image 1 Description" style="float: left; margin-right: 2%;">
 </p>
-<br clear="all"/>
+<br clear="all"/> 
+
+### <img src="https://cdn-icons-png.flaticon.com/128/3295/3295481.png" width="20" /> [Logistic Regression from Scratch](https://github.com/SyedTahfim/Logistic-Regression-from-Scratch) 
+*This project demonstrate how to develop a logistic regression model from scratch. The model was developed using object oriented programming without any use of external libraries.* 
+<p align="center">
+    <img src="https://github.com/SyedTahfim/Logistic-Regression-from-Scratch/blob/main/download.png" width="450" height="300"/>
+</p>
 
 ### <img src="https://cdn-icons-png.flaticon.com/128/3135/3135706.png" width="20" /> [Income Prediction](https://github.com/casper6020/Income-level-prediction-Adult-Dataset)
 *Often times, data scientists and researchers are biased to advanced machine learning models because of their predictive power. Here, we compared logstic regression with two boosting algorithms and explained why boosting alrithms perform better than logistic regression.*
